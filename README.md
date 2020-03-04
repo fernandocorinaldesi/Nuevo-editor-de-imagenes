@@ -10,5 +10,7 @@ Nuevo editor de imagenes, utilizando el patron de arquitectura mvc y algunos pat
 
 ### Screenshot
 ![screenshoot](https://i.ibb.co/stPjPM7/editor1.jpg)
+
 ![screenshoot](https://i.ibb.co/jZCGXJX/editor2.jpg)
+
 ![screenshoot](https://i.ibb.co/YcwfXYy/editor3.jpg)
